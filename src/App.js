@@ -15,6 +15,7 @@ function App() {
   return (
     <main>
       <h1>Marico el que lo lea</h1>
+      <small>{date}</small>
     </main>
   );
 }
